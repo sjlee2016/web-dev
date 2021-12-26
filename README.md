@@ -4,4 +4,17 @@ full stack web dev study
 ## Set up
 
 `npm init -y`
+
 use npm for managing packages
+
+`npm run test`
+
+use scripts in package.json 
+
+devDependencies show packages that are required to build the application
+
+package-lock.json show detailed version of each package 
+
+`npm install --save-dev prettier`
+
+for better formatting 

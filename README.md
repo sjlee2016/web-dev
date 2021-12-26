@@ -3,7 +3,5 @@ full stack web dev study
 
 ## Set up
 
-`code`
-npm init -y
-
+`npm init -y`
 use npm for managing packages

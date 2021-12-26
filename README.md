@@ -15,7 +15,9 @@ devDependencies show packages that are required to build the application
 
 package-lock.json show detailed version of each package 
 
-`npm install --save-dev prettier`
+`npm install --save-dev prettier
+ npm install --save-dev eslint
+`
 
 for better formatting 
 
@@ -33,10 +35,7 @@ make settings.json file inside .vscode
 
 create .prettierrc file 
 
-`
-{
+`{
   "semi": false,
   "singleQuote": true
-}
-
-`
+}`

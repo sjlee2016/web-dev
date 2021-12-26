@@ -21,6 +21,7 @@ for better formatting
 
 ## VScode Prettier setup 
 make settings.json file inside .vscode 
+
 `
 {
     "[javascript]": {
@@ -29,7 +30,9 @@ make settings.json file inside .vscode
     }
 }
 `
+
 create .prettierrc file 
+
 `
 {
   "semi": false,
